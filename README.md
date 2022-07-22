@@ -49,12 +49,12 @@ Internship @Trell (Data analyst)
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nandhinitwinkle&label=Profile%20views&color=0e75b6&style=flat" alt="Nandhinitwinkle" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nandhini25S&label=Profile%20views&color=0e75b6&style=flat" alt="Nandhini25S" /> </p>
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandhinitwinkle&show_icons=true&locale=en&layout=compact" alt="Nandhinitwinkle" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandhini25S&show_icons=true&locale=en&layout=compact" alt="Nandhini25S" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandhinitwinkle&show_icons=true&locale=en" alt="Nandhinitwinkle" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhinitwinkle&" alt="Nandhinitwinkle" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandhini25S&show_icons=true&locale=en" alt="Nandhini25S" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhini25S&" alt="Nandhini25S" /></p>
