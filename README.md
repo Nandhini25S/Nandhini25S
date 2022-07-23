@@ -15,8 +15,8 @@
 Internship @Trell (Data analyst)
 
 ### About Me 
-....
-
+Je suis Nandhini!
+I love to 'query' and 'visualize'.
 
 
 <h3 align="left">Tech Stacks</h3>
