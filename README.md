@@ -17,6 +17,7 @@ Internship @Trell (Data analyst)
 ### About Me 
 Je suis Nandhini!
 I love to 'query' and 'visualize'.
+I'm dumb fellow and senju is intelligent 
 
 
 <h3 align="left">Tech Stacks</h3>
