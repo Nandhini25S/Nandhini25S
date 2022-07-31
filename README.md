@@ -18,6 +18,7 @@ Interned @Trell as Data Analyst
 ### About Me 
 Je suis Nandhini!
 I love to 'query' and 'visualize'.
+
 And what not?
 
 
