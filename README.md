@@ -29,6 +29,7 @@ And what not?
 * Reading Books
 * Listening Songs
 * Gardening
+* Netflix & Chill
 
 ### I'm listening on Spotify :
 
