@@ -13,6 +13,7 @@
 
 
 ### Work experience
+Data Analyst @GrounTruth!
 Interned @Trell as Data Analyst
 
 ### About Me 
