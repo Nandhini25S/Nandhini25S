@@ -13,16 +13,26 @@
 
 
 ### Work experience
-Data Analyst @GrounTruth!
+Looking out for amazing dream opportunities!
 
-Interned @Trell as Data Analyst
+Interned @GroundTruth and @Trell as a Data Analyst
 
 ### About Me 
-Je suis Nandhini!
-I love to 'query' and 'visualize'.
+Je suis Nandhini. 
+I love to learn new languages, cultures and explore both professionally and personally. 
+I've strong knowledge base in,
+* SQL
+* Machine Learning
 
-And what not?
-
+  
+aand in Tools,
+* Google BigQuery
+* Google Looker
+* Metabase
+* AWS Athena
+* Redash
+* Power BI
+* Tableau
 
 <h3 align="left">Tech Stacks</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.tableau.com/ target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en/" target="_blank"> <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1504?cb=20200213050332" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.rstudio.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wXaFE8fdNG8a8rV99yFODnarO_FXROIX7WMxxXsf0QdZhjT0XClGyK8ctZTOQwHzb8M&usqp=CAU" alt="rstudio" width="40" height="40"/> </a> <a href="https://cloud.google.com/bigquery/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="google_bigquery" width="40" height="40"/> </a> </p>
@@ -41,7 +51,6 @@ And what not?
 #### You can also find me on-
 
 [<img align="left" alt="Nandhini | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Nandhini | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 
 
 
@@ -50,7 +59,6 @@ And what not?
 <hr>
 
 [linkedin]: https://www.linkedin.com/in/nandhini-s-175655176/
-[twitter]: https://twitter.com/Nandhin96093533
 
 
 
