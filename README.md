@@ -4,6 +4,7 @@
 
 
 ### Interested in 
+* Generative AI
 * Database Management Systems
 * Machine Learning
 * Deep Learning
@@ -13,7 +14,7 @@
 
 
 ### Work experience
-Looking out for amazing dream opportunities!
+GenAI Engineer in Evanke
 
 Interned @GroundTruth and @Trell as a Data Analyst
 
