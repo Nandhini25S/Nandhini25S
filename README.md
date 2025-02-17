@@ -14,12 +14,12 @@
 
 
 ### Work experience
-ML Engineer @DeepEdge - current
-GenAI Engineer @Evanke
+* ML Engineer @DeepEdge - current
+* GenAI Engineer @Evanke
 
 Interned-
-Data Engineer @GroundTruth
-Data Analyst @Trell
+* Data Engineer @GroundTruth
+* Data Analyst @Trell
 
 ### About Me 
 Je suis Nandhini. 
